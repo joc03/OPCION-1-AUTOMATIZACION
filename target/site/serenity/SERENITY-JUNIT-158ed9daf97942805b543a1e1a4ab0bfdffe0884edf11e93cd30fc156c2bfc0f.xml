@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Flujo E2E COMPRA DE 2 PRODUCTOS" skipped="0" tests="1" time="201.36" timestamp="2024-07-25 07:17:40"><testcase name="Agregar los 2 productos al carrito de compras"><error message="Timed out after 90 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 90 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: driver.version: unknown</error><system-err>Timed out after 90 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G2H0B0J', ip: '192.168.18.234', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: driver.version: unknown&#13;
+com.serenity.base.stepDefinitions.ShoppingCartStepDefinition.apareceraUnCuadroConLosDatosDeLaCompraValidandoQueDiga(ShoppingCartStepDefinition.java:33)&#13;
+✽.aparecera un cuadro con los datos de la compra, validando que diga "Thank you for your purchase!"(file:///C:/Users/joc_r/OneDrive/Documentos/Evaluacion%20QA/Ejercicio%201/EvaluacionQA-Preg1/src/test/resources/features/DemoBlaze/DemoBlaze.feature:15)&#13;
+</system-err></testcase></testsuite>
